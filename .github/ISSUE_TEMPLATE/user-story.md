@@ -16,8 +16,7 @@ assignees: ''
 
 ### Acceptance Criteria
 
-```Gherkin
-Given [some scenario]
-When [the role performs an action]
-Then [expected output or result]
-```
+```gherkin
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
